@@ -1,2 +1,2 @@
-# Python-notes-
+# Python-notes
 python notes chapterwise
